@@ -1,4 +1,4 @@
-# Analysis of an E-commerce Dataset Part 2
+# Analysis of an E-commerce Dataset
 
 ## Overview
 
